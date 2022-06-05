@@ -1,0 +1,25 @@
+header {
+    text-align: center;
+    font-family: helvetica;
+}
+main {
+    font-family: helvetica;
+}
+.center {
+    width: fit-content;
+    margin: 0 auto;
+}
+
+.naslovi{
+    width: fit-content;
+    margin: auto;
+    margin-bottom: 3rem;
+    margin-top: 3rem;
+}
+label.labels {
+    font-weight: bold;
+}
+
+input{
+    margin-bottom: 0.5rem;
+}
